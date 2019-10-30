@@ -1,0 +1,18 @@
+@media screen and (max-width:500px){ 
+    body{
+        background: red;
+    }
+}
+
+@media screen and (min-width:501px) { 
+    body{
+        background: green;
+    }
+}
+
+@media screen and (min-width:700px) { 
+    body{
+        background: yellow;
+    }
+}
+
